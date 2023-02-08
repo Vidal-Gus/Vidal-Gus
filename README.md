@@ -13,6 +13,8 @@
   <img align="center" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
 </div>
  
+ 
+ ### Destaque: https://vidal-gus.github.io/-mapadev-week-pokedex/
  <br>
  
   ### Entre em contato comigo nas redes abaixo!
