@@ -14,8 +14,12 @@
 </div>
  
  
- ### Destaque: https://vidal-gus.github.io/-mapadev-week-pokedex/
+ ### Destaques:
+ https://vidal-gus.github.io/-mapadev-week-pokedex/
  <br>
+ https://vidal-gus.github.io/APS/#
+ <br>
+ https://vidal-gus.github.io/Pesquisa-Profissional/
  
   ### Entre em contato comigo nas redes abaixo!
  
