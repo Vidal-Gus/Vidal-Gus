@@ -1,5 +1,7 @@
 ## Bem-vindo(a) ao perfil do Gustavo Vidal 😁
 
+- Perfil com estudos e aplicações front-end 💻
+
  <div>
   <a href="https://github.com/Vidal-Gus">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Vidal-Gus&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,7 +15,7 @@
   <img align="center" alt="NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
 </div>
  
- - Perfil com estudos e aplicações front-end
+ 
  ### Destaques:
  https://vidal-gus.github.io/-mapadev-week-pokedex/
  <br>
