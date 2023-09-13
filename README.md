@@ -1,8 +1,5 @@
 # Bem-vindo(a) 
 **Sou Gustavo Vidal**, tenho 24 anos, sou **desenvolvedor Back-End**, trabalho com **JavaScript | NODE.JS | APIs REST**
-
-
- ## Momento Atual: 
 Estou sendo formado pela **Cubos Academy** com especialização intensiva em **Back-End + ADS** na **Unicarioca**.
 Sou fascinado por tecnologia e as inovações que ela proporciona pra mim todos os dias.
 Sigo buscando novos aprendizados e atuações em times de **Desenvolvimento de Software**.
@@ -13,7 +10,6 @@ Sigo buscando novos aprendizados e atuações em times de **Desenvolvimento de S
 ![Git Badge](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Javascript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Express Badge](https://img.shields.io/badge/Express%20js-006400?style=for-the-badge&logo=express&logoColor=white)
-### DataBase
 ![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white)
 
