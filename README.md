@@ -1,5 +1,5 @@
 # Bem-vindo(a) 
-**Sou Gustavo Vidal**, tenho 26 anos, sou **desenvolvedor Back-End**, trabalho com ** .NET | JavaScript | NODE.JS | APIs REST**
+**Sou Gustavo Vidal**, tenho 26 anos, sou **desenvolvedor Back-End**, trabalho com **.NET | JavaScript | NODE.JS | APIs REST**
 Estou sendo formado pela **[Cubos Academy](https://cubos.academy/)** com especialização intensiva em **Back-End + ADS** na **[Unicarioca](https://www.unicarioca.edu.br/)**.
 Amo por tecnologia e as inovações que ela proporciona pra mim todos os dias.
 Sigo buscando novos aprendizados e atuações em times de **Desenvolvimento de Software**.
