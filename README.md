@@ -20,4 +20,3 @@ Sigo buscando novos aprendizados e atuações em times de **Desenvolvimento de S
 ![MySQL](https://img.shields.io/badge/MySQL-1E90FF?style=for-the-badge&logo=mysql&logoColor=white)
 ![dotnet Badge](https://img.shields.io/badge/.net-739?style=for-the-badge&logo=dotnet&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vidal-Gus&theme=dark)
